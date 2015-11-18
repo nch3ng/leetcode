@@ -10,10 +10,10 @@ Median of Two Sorted Arrays
 Reverse Linked List   
 Two Sum   
 ZigZag Conversion   
-Remove Duplicates from Sorted Array
-Binary Tree Preorder Traversal
-Binary Tree Postorder Traversal
-Serialize and Deserialize Binary Tree
+Remove Duplicates from Sorted Array 
+Binary Tree Preorder Traversal 
+Binary Tree Postorder Traversal 
+Serialize and Deserialize Binary Tree 
 
 
 Until 11/17
