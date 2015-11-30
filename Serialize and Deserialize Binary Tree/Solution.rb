@@ -57,18 +57,18 @@ def deserialize(data)
         l = data.shift
         r = data.shift
   
-    unless l.nil?
-        t.left = TreeNode.new(l)
-        q.push(t.left)
-    end
+        unless l.nil?
+            t.left = TreeNode.new(l)
+            q.push(t.left)
+        end
     
-    unless r.nil?
-        t.right = TreeNode.new(r)
-        q.push(t.right)
-    end
+        unless r.nil?
+            t.right = TreeNode.new(r)
+            q.push(t.right)
+        end
     
-  end
-  root
+    end
+    root
 end
 
 # Your functions will be called as such:
