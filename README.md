@@ -14,7 +14,7 @@ Remove Duplicates from Sorted Array
 Binary Tree Preorder Traversal  
 Binary Tree Postorder Traversal  
 Serialize and Deserialize Binary Tree  
-Word Break
+Word Break  
 Binary Tree Paths
 
 Until 12/2
