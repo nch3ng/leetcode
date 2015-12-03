@@ -15,6 +15,8 @@ Binary Tree Preorder Traversal
 Binary Tree Postorder Traversal  
 Serialize and Deserialize Binary Tree  
 Word Break  
-Binary Tree Paths
+Binary Tree Paths  
+Lowest Common Ancestor of a Binary Search Tree  
 
+  
 Until 12/2
