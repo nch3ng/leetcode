@@ -15,5 +15,6 @@ Binary Tree Preorder Traversal
 Binary Tree Postorder Traversal  
 Serialize and Deserialize Binary Tree  
 Word Break
+Binary Tree Paths
 
-Until 11/18
+Until 12/2
