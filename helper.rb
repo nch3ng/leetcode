@@ -7,7 +7,44 @@ class TreeNode
   end
 end
 
-# Deserialize string to root object
+# Encodes a tree to a single string.
+#
+# @param {TreeNode} root
+# @return {string}
+def serialize(root) 
+    q=[]
+    ans = []
+    return root if root.nil?
+    
+    q.push(root)
+    until q.empty?
+        t = q.shift
+        if t.nil?
+            ans.push(nil)
+        else
+            ans.push(t.val)
+            
+            if t.left.nil?
+                q.push(nil)
+            else
+                q.push(t.left) 
+            end
+            
+            if t.right.nil?
+                q.push(nil)
+            else
+                q.push(t.right) 
+            end
+        end
+    
+    end
+    ans
+end
+
+# Decodes your encoded data to tree.
+#
+# @param {string} data
+# @return {TreeNode}
 def deserialize(data)
     return data if data.nil?
     q=[]
@@ -20,16 +57,16 @@ def deserialize(data)
         l = data.shift
         r = data.shift
   
-    unless l.nil?
-        t.left = TreeNode.new(l)
-        q.push(t.left)
-    end
+        unless l.nil?
+            t.left = TreeNode.new(l)
+            q.push(t.left)
+        end
     
-    unless r.nil?
-        t.right = TreeNode.new(r)
-        q.push(t.right)
-    end
+        unless r.nil?
+            t.right = TreeNode.new(r)
+            q.push(t.right)
+        end
     
-  end
-  root
+    end
+    root
 end
