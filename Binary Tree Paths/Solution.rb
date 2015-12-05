@@ -1,7 +1,5 @@
-require '../helper.rb'
+require '../btree_helper.rb'
 
-# @param {TreeNode} root
-# @return {String[]}
 def binary_tree_paths(root)
    
   return [] if root.nil?
@@ -45,6 +43,8 @@ def binary_tree_paths(root)
   paths
 end
 
-data = [1,2,3,4,nil,nil,5]
-node = deserialize(data)
-print binary_tree_paths(node)
+
+$btree_testcase.each do |v|
+  r = deserialize(v)
+  print "#{binary_tree_paths(r)}\n"
+end
