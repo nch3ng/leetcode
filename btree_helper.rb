@@ -1,3 +1,13 @@
+=begin
+[]
+[1,2,3,4,5]
+[1]
+[1,2,3,4,5,6,7,8]
+[1,2,3,null,null,4]
+[3,5,1,6,2,0,8,null,null,7,4]
+[37,-34,-48,null,100,-100,48,null,null,null,null,-54,null,-71,-22,null,null,null,8]
+=end
+
 $btree_testcase = [
   [1,2,3,4,5,6,7,8],
   [],
