@@ -24,5 +24,7 @@ Median of Two Sorted Arrays
 [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)  
 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  
 [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)    
-  
+[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)  
+
+
 - Until 12/5
