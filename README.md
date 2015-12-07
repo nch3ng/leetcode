@@ -25,6 +25,9 @@ Median of Two Sorted Arrays
 [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)  
 [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)    
 [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)  
+[Remove Element](https://leetcode.com/problems/remove-element/)  
+[Implement strStr()](https://leetcode.com/problems/implement-strstr/)  
+[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  
 
 
 - Until 12/5
