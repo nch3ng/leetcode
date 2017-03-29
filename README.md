@@ -34,6 +34,7 @@ Median of Two Sorted Arrays
 
 Methods involved
 
-String/Characters
-    - Sliding window
-    - Hash
+
+String/Characters  
+    - Sliding window  
+    - Hash  
