@@ -30,4 +30,10 @@ Median of Two Sorted Arrays
 [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  
 
 
-- Until 12/5
+- Until 12/5/2016
+
+Methods involved
+
+String/Characters
+    - Sliding window
+    - Hash

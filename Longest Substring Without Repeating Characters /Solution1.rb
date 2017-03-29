@@ -18,14 +18,14 @@ def length_of_longest_substring(s)
   max=0
   s.each_char.with_index do |c ,idx|
     if !hash.has_key?(c)
-      puts "#{c}: Does not exist, push #{c} to #{idx}"
+      #puts "#{c}: Does not exist, push #{c} to #{idx}"
       hash[c]=idx
     else
       if idx-hash[c] > max
         max = idx-hash[c]
       end
-      puts "The maximum distance of #{c} is #{idx-hash[c]}"
-      puts "delete from #{last_delete} to #{hash[c]-last_delete+1}, #{s[last_delete, hash[c]-last_delete+1]}"
+      #puts "The maximum distance of #{c} is #{idx-hash[c]}"
+      #puts "delete from #{last_delete} to #{hash[c]-last_delete+1}, #{s[last_delete, hash[c]-last_delete+1]}"
       last_duplicate = hash[c] + 1
       s[last_delete, hash[c]+1].each_char do |c|
 
