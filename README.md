@@ -28,13 +28,14 @@ Median of Two Sorted Arrays
 [Remove Element](https://leetcode.com/problems/remove-element/)  
 [Implement strStr()](https://leetcode.com/problems/implement-strstr/)  
 [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  
-[Nim Game](https://leetcode.com/problems/nim-game/)
+[Nim Game](https://leetcode.com/problems/nim-game/)  
+[Move Zeros](https://leetcode.com/problems/move-zeroes/)  
 
 - Until 3/29/2017
 
 Methods involved
 
-
 String/Characters  
     - Sliding window  
-    - Hash  
+    - Hash 
+    - Insert index
