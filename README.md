@@ -30,8 +30,11 @@ Median of Two Sorted Arrays
 [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  
 [Nim Game](https://leetcode.com/problems/nim-game/)  
 [Move Zeros](https://leetcode.com/problems/move-zeroes/)  
+[Add Binary](https://leetcode.com/problems/add-binary/)  
+[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/#/description)  
 
-- Until 3/29/2017
+
+- Until 4/11/2017
 
 Methods involved
 
