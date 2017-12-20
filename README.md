@@ -1,6 +1,6 @@
 The solutions of Leetcode problems with Ruby until now
 
-[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  
+[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  (Hash, Array)
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  
 Contains Duplicate III  
