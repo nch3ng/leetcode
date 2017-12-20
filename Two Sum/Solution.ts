@@ -10,7 +10,7 @@ let target: number = 18;
  * @return {number[]}
  */
 
-let two_sum = function (nums: number [], target: number): number [] {
+let twoSum = function (nums: number [], target: number): number [] {
   let ans: number [] = [];
   let hash: { [id: number]: number; }={};
   for (let i = 0; i < nums.length; i++) {
@@ -24,4 +24,4 @@ let two_sum = function (nums: number [], target: number): number [] {
   return ans;
 }
 
-console.log(two_sum (nums, target));
+console.log(twoSum (nums, target));
