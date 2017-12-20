@@ -1,6 +1,6 @@
 The solutions of Leetcode problems with Ruby until now
 
-[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  (Hash, Array)
+[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  
 [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
 [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  
 Contains Duplicate III  
@@ -8,7 +8,7 @@ Contains Duplicate III
 [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  
 Median of Two Sorted Arrays   
 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  
-[Two Sum](https://leetcode.com/problems/two-sum/)   
+[Two Sum](https://leetcode.com/problems/two-sum/) (Hash, Array) (ruby, typescript)       
 [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)  
 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
 [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)  
