@@ -32,7 +32,7 @@ Median of Two Sorted Arrays
 [Move Zeros](https://leetcode.com/problems/move-zeroes/)  
 [Add Binary](https://leetcode.com/problems/add-binary/)  
 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/#/description)  
-[Reverse Integer](https://leetcode.com/problems/reverse-integer) (typrscript)
+[Reverse Integer](https://leetcode.com/problems/reverse-integer) (typrscript)   
 
 - Until 12/19/2017
 

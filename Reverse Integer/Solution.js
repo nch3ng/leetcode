@@ -10,6 +10,7 @@ var reverse = function (num) {
     var min_int = -1 * Math.pow(2, 31);
     var orig = num;
     num = (num > 0) ? num : (0 - num);
+    
     while (num > 0) {
         reverseNum = reverseNum * 10 + num % 10;
         num = Math.trunc(num / 10);
