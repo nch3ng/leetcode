@@ -1,0 +1,1 @@
+{"ruby":"# @param {String} haystack\r\n# @param {String} needle\r\n# @return {Integer}\r\ndef str_str(haystack, needle)\r\n    haystack.index(needle) || -1\r\nend"}

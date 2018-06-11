@@ -1,0 +1,1 @@
+{"ruby":"def contains_duplicate(nums)\r\n  hash = Hash.new\r\n  nums[0..-1].each_with_index { |val,i|\r\n    if hash.has_key?(val)\r\n        return true\r\n    end\r\n    hash[val]=i\r\n  }\r\n  return false;\r\nend"}

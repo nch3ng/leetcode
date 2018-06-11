@@ -1,0 +1,1 @@
+{"ruby":"# @param {Integer[]} nums\r\n# @param {Integer} val\r\n# @return {Integer}\r\ndef remove_element(nums, val)\r\n    nums.delete(val)\r\n    nums.size\r\nend"}

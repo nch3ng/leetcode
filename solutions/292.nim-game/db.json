@@ -1,0 +1,1 @@
+{"ruby":"# @param {Integer} n\r\n# @return {Boolean}\r\ndef can_win_nim(n)\r\n    return (n%4) != 0\r\nend"}

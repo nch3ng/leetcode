@@ -1,5 +1,3 @@
-set = [2, 7, 11, 15]
-
 # @param {Integer[]} nums
 # @param {Integer} target
 # @return {Integer[]}
@@ -16,6 +14,3 @@ def two_sum(nums, target)
     end
   end
 end
-
-ret = two_sum(set, 18)
-print ret

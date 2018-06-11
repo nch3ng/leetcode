@@ -1,0 +1,7 @@
+{
+	"username" : "boo0330@gmail.com",
+	"password" : "Soas19790624",
+	"language": ["java","ruby","javascript","python"],
+	"outputDir": "./solutions",
+	"template": "./README.tpl"
+}
